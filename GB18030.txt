@@ -1,0 +1,17 @@
+
+a狗bبcշdकeुfकुg犬h개iگjдkטlém𠅜nopqrstuvwxyzABCDEFGHIJKLMNOP
+狗: Chinese Simplified (dog)
+ب: Arabic
+շ: Armenian
+क: Hindi (base character)
+ु: Hindi (combining character)
+कु: Hindi (combining character sequence with 2 previous Hindi chars)
+犬: Japanese(dog)
+개: Korean (dog)
+گ: Persian
+д: Cyrillic
+ט: Yiddish
+é: U+00E9
+ĕ: U+0115
+♂: 
+𠅜a: U+2015C (needs surrogate pair in UTF-16)
